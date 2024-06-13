@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Build the docker"
+echo "Build the docker image"
 dockerfile_name=$1
 image_name=$2
 
